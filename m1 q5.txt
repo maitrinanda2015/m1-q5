@@ -1,0 +1,12 @@
+5.
+public class VariableDeclaration {
+    public static void main(String[] args) {
+        int age = 25;
+        double weight = 65.5;
+        String name = "John Doe";
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Weight: " + weight);
+    }
+}
